@@ -1,6 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Page of fmaciask
 
-You can use the [editor on GitHub](https://github.com/fmaciask/fmaciask.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Thanks for visiting this page.
+I'm a newb DevOp that it's in the middle of something big. I'm studying all possibilities that fits the following requirement:
+- Open source
+- Linux base
+- Scalable
+- High Availability
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
