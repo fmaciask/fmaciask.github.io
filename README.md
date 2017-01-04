@@ -2,11 +2,17 @@
 
 Thanks for visiting this page.
 I'm a newb DevOp that it's in the middle of something big. I'm studying all possibilities that fits the following requirement:
+
 - Open source
+
 - Linux base
+
 - Scalable
+
 - High Availability
+
 - CI and CD compliant
+
 
 Most of the actual repositories are forks from interesting projects. 
 
