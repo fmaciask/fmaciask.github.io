@@ -6,8 +6,9 @@ I'm a newb DevOp that it's in the middle of something big. I'm studying all poss
 - Linux base
 - Scalable
 - High Availability
+- CI and CD compliant
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Most of the actual repositories are forks from interesting projects. 
 
 ### Markdown
 
