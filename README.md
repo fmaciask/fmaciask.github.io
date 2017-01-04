@@ -3,7 +3,7 @@
 Thanks for visiting this page.
 I'm a newb DevOp that it's in the middle of something big. I'm studying all possibilities that fits the following requirement:
 
-`- Open source
+- Open source
 
 - Linux base
 
@@ -12,7 +12,7 @@ I'm a newb DevOp that it's in the middle of something big. I'm studying all poss
 - High Availability
 
 - CI and CD compliant
-`
+
 
 Most of the actual repositories are forks from interesting projects. 
 
