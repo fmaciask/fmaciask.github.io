@@ -20,25 +20,6 @@ Most of the actual repositories are forks from interesting projects.
 
 I usually write bash scripting, and most of them are "small" scripts that maybe aren't clear what they do, but I can assure that in their context, they work fine.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-
-```
-
-
 ### Support or Contact
 
 Having trouble with some files? Send me a message and I'll try to help.
